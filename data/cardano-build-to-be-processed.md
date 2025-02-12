@@ -3,6 +3,9 @@
 ----
 Cardano.Build (Newest First)
 
+https://x.com/anastasialabs/status/1889245982778364237?s=46&t=M_z10jf1hWN5hn7liKVlVA
+https://youtu.be/8K32PlVPgzM?si=H7XG6xNXKlvgaQ-L
+
 https://github.com/logical-mechanism/Seedelf-Wallet/releases/tag/0.4.3
 https://x.com/IOHK_Charles/status/1885466282755051694
 https://bsky.app/profile/sebastiengllmt.bsky.social/post/3lha2bpayjc2i
