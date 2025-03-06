@@ -119,7 +119,7 @@
                         "title": "CEM Script",
                         "categories": [
                             "open-source",
-                            "infrastructure"
+                            "general-dev-resources"
                         ],
                         "notes": "Framework to define Cardano DApp logic via annotated CEM-machines, resulting in free implementations for On-chain scripts, Off-chain Tx building/submission, Tx parsing+indexing, Invariants testing, human readable specs",
                         "orginator": "MLABs",
