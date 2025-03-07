@@ -111,7 +111,7 @@
                             "alliances"
                         ],
                         "notes": "Open Source Association (Cardano)",
-                        "orginator": "Cardano Foundation",
+                        "originator": "Cardano Foundation",
                         "url": "https://cardanofoundation.org/blog/cardano-foundation-blink-labs-dcspark-sundae-labs-txpipe-launch-open-source-association",
                         "date": "22APR2024"
                     },
@@ -122,7 +122,7 @@
                             "general-dev-resources"
                         ],
                         "notes": "Framework to define Cardano DApp logic via annotated CEM-machines, resulting in free implementations for On-chain scripts, Off-chain Tx building/submission, Tx parsing+indexing, Invariants testing, human readable specs",
-                        "orginator": "MLABs",
+                        "originator": "MLABs",
                         "url": "https://github.com/mlabs-haskell/cem-script/tree/master",
                         "date": "03FEB2025"
                     }
